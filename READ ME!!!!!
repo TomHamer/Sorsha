@@ -1,0 +1,19 @@
+READ ME!!!!!
+
+I was the sole collaborator on this project, which uses the Parse API simply to manage the server aspect of the code.
+
+The app encompasses two key aspects:
+
+1) An app for use by a customer, intending to order coffee from the LSE Library in London
+2) An app for a potential barista, who would fill the orders of the customers
+
+The specification is such that the customer gives a location and the details of the coffee they wish to order. A waiter can then take on an order, order the coffee to the barista, and then run it over to the customer.
+
+In the customer app, use a long-touch to order a coffee. You can sign out of this customer app by going to menu->settings->logout
+
+If you don’t want to use the registration process, you can use the login:
+
+email: tomhamer@live.com
+password: asdf
+
+to access the delivery section of the app simply log out from the customer section, go to login, then “login with delivery”. From there, log in with the above credentials.
